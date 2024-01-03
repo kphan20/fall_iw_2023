@@ -1,0 +1,7 @@
+/env
+/models
+/sarcasm
+/steam_reviews
+/__pycache__
+*.pkl
+*.out
