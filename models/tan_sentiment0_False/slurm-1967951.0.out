@@ -1,0 +1,64 @@
+/scratch/network/kphan/COS_IW/env/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/scratch/network/kphan/COS_IW/env/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/scratch/network/kphan/COS_IW/env/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Model: /scratch/network/kphan/COS_IW/models/tan_sentiment0_False
+Loss: 0.3753133720275781
+Acc: 0.8226950354609929
+              precision    recall  f1-score   support
+
+           0       0.86      0.78      0.82      1125
+           1       0.80      0.87      0.83      1125
+
+    accuracy                           0.82      2250
+   macro avg       0.83      0.82      0.82      2250
+weighted avg       0.83      0.82      0.82      2250
+
+[[879 246]
+ [148 977]]
+              precision    recall  f1-score   support
+
+           0       0.50      1.00      0.67      1125
+           1       0.00      0.00      0.00      1125
+
+    accuracy                           0.50      2250
+   macro avg       0.25      0.50      0.33      2250
+weighted avg       0.25      0.50      0.33      2250
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.95      0.81      1125
+           1       0.92      0.60      0.73      1125
+
+    accuracy                           0.77      2250
+   macro avg       0.81      0.77      0.77      2250
+weighted avg       0.81      0.77      0.77      2250
+
+              precision    recall  f1-score   support
+
+           0       0.39      0.57      0.47      1125
+           1       0.21      0.11      0.15      1125
+
+    accuracy                           0.34      2250
+   macro avg       0.30      0.34      0.31      2250
+weighted avg       0.30      0.34      0.31      2250
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.78      0.74      1125
+           1       0.75      0.66      0.70      1125
+
+    accuracy                           0.72      2250
+   macro avg       0.73      0.72      0.72      2250
+weighted avg       0.73      0.72      0.72      2250
+
+[[1125    0]
+ [1125    0]]
+[[1067   58]
+ [ 452  673]]
+[[645 480]
+ [999 126]]
+[[880 245]
+ [381 744]]
