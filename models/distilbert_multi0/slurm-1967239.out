@@ -1,0 +1,61 @@
+[nltk_data] Error loading stopwords: <urlopen error [Errno -2] Name or
+[nltk_data]     service not known>
+[nltk_data] Error loading punkt: <urlopen error [Errno -2] Name or
+[nltk_data]     service not known>
+Loss: 0.380780891165243
+Acc: 0.8222517730496454
+              precision    recall  f1-score   support
+
+           0       0.84      0.79      0.82      1125
+           1       0.81      0.85      0.83      1125
+
+    accuracy                           0.82      2250
+   macro avg       0.83      0.82      0.82      2250
+weighted avg       0.83      0.82      0.82      2250
+
+[[894 231]
+ [164 961]]
+              precision    recall  f1-score   support
+
+           0       0.73      0.91      0.81      1125
+           1       0.88      0.66      0.75      1125
+
+    accuracy                           0.78      2250
+   macro avg       0.80      0.78      0.78      2250
+weighted avg       0.80      0.78      0.78      2250
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.95      0.81      1125
+           1       0.93      0.59      0.72      1125
+
+    accuracy                           0.77      2250
+   macro avg       0.81      0.77      0.76      2250
+weighted avg       0.81      0.77      0.76      2250
+
+              precision    recall  f1-score   support
+
+           0       0.73      0.87      0.79      1125
+           1       0.83      0.68      0.75      1125
+
+    accuracy                           0.77      2250
+   macro avg       0.78      0.77      0.77      2250
+weighted avg       0.78      0.77      0.77      2250
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.78      0.73      1125
+           1       0.75      0.66      0.70      1125
+
+    accuracy                           0.72      2250
+   macro avg       0.72      0.72      0.72      2250
+weighted avg       0.72      0.72      0.72      2250
+
+[[1020  105]
+ [ 385  740]]
+[[1073   52]
+ [ 463  662]]
+[[974 151]
+ [363 762]]
+[[877 248]
+ [387 738]]
