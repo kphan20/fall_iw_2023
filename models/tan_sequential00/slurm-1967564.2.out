@@ -1,0 +1,58 @@
+Model: /scratch/network/kphan/COS_IW/models/tan_sequential00
+Loss: 0.42730129378061765
+Acc: 0.785904255319149
+              precision    recall  f1-score   support
+
+           0       0.82      0.74      0.78      1125
+           1       0.76      0.84      0.80      1125
+
+    accuracy                           0.79      2250
+   macro avg       0.79      0.79      0.79      2250
+weighted avg       0.79      0.79      0.79      2250
+
+[[832 293]
+ [184 941]]
+              precision    recall  f1-score   support
+
+           0       0.82      0.74      0.78      1125
+           1       0.76      0.84      0.80      1125
+
+    accuracy                           0.79      2250
+   macro avg       0.79      0.79      0.79      2250
+weighted avg       0.79      0.79      0.79      2250
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.92      0.78      1125
+           1       0.87      0.57      0.69      1125
+
+    accuracy                           0.74      2250
+   macro avg       0.78      0.74      0.73      2250
+weighted avg       0.78      0.74      0.73      2250
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.23      0.34      1125
+           1       0.53      0.87      0.66      1125
+
+    accuracy                           0.55      2250
+   macro avg       0.58      0.55      0.50      2250
+weighted avg       0.58      0.55      0.50      2250
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.76      0.72      1125
+           1       0.73      0.63      0.68      1125
+
+    accuracy                           0.70      2250
+   macro avg       0.70      0.70      0.70      2250
+weighted avg       0.70      0.70      0.70      2250
+
+[[832 293]
+ [184 941]]
+[[1033   92]
+ [ 486  639]]
+[[256 869]
+ [145 980]]
+[[859 266]
+ [413 712]]
